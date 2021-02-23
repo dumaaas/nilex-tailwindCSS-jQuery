@@ -42,20 +42,20 @@ In progress
 
 ## Screenshots 
 
-![alt text](https://github.com/dumaaas/dumaaas.github.io/blob/main/img/screen1.png "Bild Studio")
+![alt text](https://github.com/dumaaas/dumaaas.github.io/nilex/blob/main/img/screen1.png "Bild Studio")
 
-![alt text](https://github.com/dumaaas/dumaaas.github.io/blob/main/img/screen2.png "Bild Studio")
+![alt text](https://github.com/dumaaas/dumaaas.github.io/nilex/blob/main/img/screen2.png "Bild Studio")
 
-![alt text](https://github.com/dumaaas/dumaaas.github.io/blob/main/img/screen3.png "Bild Studio")
+![alt text](https://github.com/dumaaas/dumaaas.github.io/nilex/blob/main/img/screen3.png "Bild Studio")
 
 ## Lighthouse reports
   
   ### Destkop
   
-  ![alt text](https://github.com/dumaaas/dumaaas.github.io/blob/main/img/destkopPerf.png "Bild Studio")
+  ![alt text](https://github.com/dumaaas/dumaaas.github.io/nilex/blob/main/img/destkopPerf.png "Bild Studio")
   
   ### Mobile 
   
-  ![alt text](https://github.com/dumaaas/dumaaas.github.io/blob/main/img/mobilePerf.png "Bild Studio")
+  ![alt text](https://github.com/dumaaas/dumaaas.github.io/nilex/blob/main/img/mobilePerf.png "Bild Studio")
 
-## [LIVE DEMO ➫](https://dumaaas.github.io)
+## [LIVE DEMO ➫](https://dumaaas.github.io/nilex)
