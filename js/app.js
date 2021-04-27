@@ -13,8 +13,6 @@ $(document).ready(function() {
         }
     };
 
-
-
     //smooth scroling to the top of page
     var btn = $('#top-btn');
 
